@@ -38,12 +38,15 @@
 
 接下来，如果想要深入学习，内容会非常多，每一点都可以展开非常多知识点，还是要结合实际项目进行学习。
 
-具体来说剩下的二级目录内容你都可以不看（大多是笔者的杂谈，不可能在这样的篇幅把详细的内容讲清楚，但是每小节末尾会放一些学习资源），而是直接看书：[《C# in Depth》](https://zh.z-library.sk/book/4974128/045ddc/c-in-depth-fourth-edition.html)
+具体来说剩下的二级目录内容你都可以不看（大多是笔者的杂谈，不可能在这样的篇幅把详细的内容讲清楚，但是每小节末尾会放一些学习资源）。
+而是直接看书：
 
-或者直接阅读[官方文档](https://learn.microsoft.com/zh-cn/dotnet/csharp/)。
+- [《C# in Depth》](https://zh.z-library.sk/book/4974128/045ddc/c-in-depth-fourth-edition.html)
+- [《CLR via C#》](https://zh.z-library.sk/book/22982527/ec9213/clr-via-c-%E7%AC%AC3%E7%89%88.html)
+
+或者直接阅读[微软官方文档](https://learn.microsoft.com/zh-cn/dotnet/csharp/)。
 
 > 以下内容还在建设中……
-
 
 作为进阶内容，以下是几个重要的话题：
 
@@ -103,6 +106,12 @@ LINQ（Language Integrated Query）是C#中极具特色的功能之一。它让�
 有了LINQ，很多原本需要多层循环、繁琐判断的代码都能变得**简洁、直观** **！** 它不仅提升了代码的**可读性**和**开发效率**，还能让你更专注于业务逻辑本身 **！**
 
 如果你还没用过LINQ，强烈建议花点时间系统学习和实践。掌握LINQ，能让你的C#开发体验上一个台阶。
+
+### 委托与事件
+
+### 泛型
+
+### unsafe 代码
 
 ---
 
