@@ -71,7 +71,7 @@ nav:
         - Unity入门: 游戏开发技术/Unity/Unity入门.md
         - Unity能力进阶·生命周期篇: 游戏开发技术/Unity/Unity能力进阶·生命周期篇.md
         - Unity能力进阶·Component篇: 游戏开发技术/Unity/Unity能力进阶·Component篇.md
-        - 编程能力进阶: 游戏开发技术/Unity/编程能力进阶.md
+        - C#编程能力进阶: 游戏开发技术/Unity/csharp编程能力进阶.md
       - C++基础: 游戏开发技术/Cpp.md
       - 游戏设计模式: 游戏开发技术/游戏设计模式.md
   - 项目信息:
