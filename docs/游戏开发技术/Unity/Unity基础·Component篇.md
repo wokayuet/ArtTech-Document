@@ -1,4 +1,4 @@
-# Unity 能力进阶 - Component 篇
+# Unity 基础 - Component 篇
 
 > 本页面由[李杰](../../社团介绍/成员.md)编写并发布
 

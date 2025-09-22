@@ -72,9 +72,9 @@ nav:
           - UE进阶: 游戏开发技术/UE/UE进阶.md
       - Unity:
           - Unity入门: 游戏开发技术/Unity/Unity入门.md
-          - Unity能力进阶·生命周期篇: 游戏开发技术/Unity/Unity能力进阶·生命周期篇.md
-          - Unity能力进阶·Component篇: 游戏开发技术/Unity/Unity能力进阶·Component篇.md
-          - Unity能力进阶·自建框架篇: 游戏开发技术/Unity/Unity能力进阶·自建框架篇.md
+          - Unity基础·生命周期篇: 游戏开发技术/Unity/Unity基础·生命周期篇.md
+          - Unity基础·Component篇: 游戏开发技术/Unity/Unity基础·Component篇.md
+          - Unity基础·自建框架篇: 游戏开发技术/Unity/Unity基础·自建框架篇.md
           - C#编程能力进阶: 游戏开发技术/Unity/csharp编程能力进阶.md
       - C++基础: 游戏开发技术/Cpp.md
       - 游戏设计模式: 游戏开发技术/游戏设计模式.md
