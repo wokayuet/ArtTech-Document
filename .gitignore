@@ -58,3 +58,5 @@ venv.bak/
 Desktop.ini
 ehthumbs.db
 Thumbs.db
+
+.idea/
