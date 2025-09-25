@@ -66,18 +66,22 @@ nav:
       - 成员介绍: 社团介绍/成员.md
       - 活动记录: 社团介绍/活动.md
   - 游戏开发技术:
-      - UE入门: 游戏开发技术/UE入门.md
+      - UE:
+          - UE入门: 游戏开发技术/UE/UE入门.md
+          - UE基础·基本类: 游戏开发技术/UE/UE基础·基本类.md
+          - UE进阶: 游戏开发技术/UE/UE进阶.md
       - Unity:
-        - Unity入门: 游戏开发技术/Unity/Unity入门.md
-        - Unity能力进阶·生命周期篇: 游戏开发技术/Unity/Unity能力进阶·生命周期篇.md
-        - Unity能力进阶·Component篇: 游戏开发技术/Unity/Unity能力进阶·Component篇.md
-        - Unity能力进阶·自建框架篇: 游戏开发技术/Unity/Unity能力进阶·自建框架篇.md
-        - C#编程能力进阶: 游戏开发技术/Unity/csharp编程能力进阶.md
+          - Unity入门: 游戏开发技术/Unity/Unity入门.md
+          - Unity基础·生命周期篇: 游戏开发技术/Unity/Unity基础·生命周期篇.md
+          - Unity基础·Component篇: 游戏开发技术/Unity/Unity基础·Component篇.md
+          - Unity基础·自建框架篇: 游戏开发技术/Unity/Unity基础·自建框架篇.md
+          - C#编程能力进阶: 游戏开发技术/Unity/csharp编程能力进阶.md
       - C++基础: 游戏开发技术/Cpp.md
       - 游戏设计模式: 游戏开发技术/游戏设计模式.md
   - 项目信息:
       - 蜀祭·太初: 项目信息/蜀祭·太初.md
       - 食几何时: 项目信息/食几何时.md
+      - 浮生之路: 项目信息/浮生之路.md
   - 其他:
       - 常用工具网站: 其他/常用工具网站.md
       - AI工具使用指北: 其他/AI工具使用指北.md
