@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "社团介绍/成员.md",
+                "file": "其他/常用工具网站.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "成员"
+              "title": "常用工具网站"
             }
           },
           {
@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "游戏开发技术/UE入门.md",
+                "file": "其他/常用工具网站.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UE入门"
+              "title": "常用工具网站"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,12 +199,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6db83a287cd9fffe",
+  "active": "3dd1c6833e094684",
   "lastOpenFiles": [
+    "社团介绍/成员.md",
+    "其他/常用工具网站.md",
+    "游戏开发技术/UE入门.md",
     "社团介绍/社团介绍.md",
     "社团介绍/社团运行机制.md",
     "社团介绍/实验室使用规章.md",
-    "社团介绍/成员.md",
     "其他/如何为本网站做出贡献.md",
     "项目信息/蜀祭·太初：详细文档.md",
     "index.md",
@@ -227,7 +229,6 @@
     "assets/images/Pasted image 20250914021828.png",
     "assets/images/Pasted image 20250914031826.png",
     "游戏开发技术/Unity入门.md",
-    "游戏开发技术/UE入门.md",
     "Unity/Unity入门.md",
     "UE/UE入门.md",
     "游戏开发技术/游戏设计模式.md",
@@ -238,7 +239,6 @@
     "项目信息/食几何时.md",
     "其他/AI工具使用指北.md",
     "社团介绍/简介.md",
-    "Excalidraw/Drawing 2025-07-23 23.59.24.excalidraw.md",
     "未命名.canvas",
     "未命名 1.canvas",
     "assets/javascripts/custom.js",
